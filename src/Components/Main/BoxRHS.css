@@ -1,0 +1,43 @@
+.BoxRHSBody {
+    box-shadow: 5px 14pt 20pt 0pt;
+    background-color: #e2e2ec;
+    display: flex;
+    border-radius: 15px;
+    border: 2px solid;
+    align-items: center;
+    margin: 40px 280px;
+    padding: 10px;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+#Login{    
+    display: flex;
+    margin: 35px 20px;
+    border-radius: 15%;
+    box-shadow: 7px 7pt 16pt 0pt;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;   
+}
+
+.LoginRegButton{
+    margin-bottom: 15px;
+    width: -webkit-fill-available;
+}
+
+
+.LoginDiv{    
+    margin: 10px 30px;
+}
+
+#BoxRHSLine{
+    display: flex;
+    margin-top: 6px;
+    margin-bottom: 3px;
+    margin-left: 20px;
+    margin-right: 15px;
+    border-left: 2px outset #959595cc;
+    height: 200px;
+}
